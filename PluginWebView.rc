@@ -1,6 +1,6 @@
 ﻿#include <VerRsrc.h>
 
-1 TYPELIB "PluginWebView.tlb"
+// 1 TYPELIB "PluginWebView.tlb"
 
 VS_VERSION_INFO VERSIONINFO
 FILEVERSION 0,1,0,0
